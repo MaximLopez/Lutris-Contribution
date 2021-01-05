@@ -1,0 +1,27 @@
+Rayman Arena/Rayman M is the first multiplayer game in the Rayman series. It's not a platformer like earlier games of the Rayman franchises but a race and arena battle game. The game is divided in five leagues (beginner, advanced, expert, extreme and bonus) the first four have each three racing tracks and three arena’s that increase in difficulty.
+
+The racing mode is split in four different race types:
+
+    Training: for exploring and practice of the racecourse and setting personal records;
+    Race: up to four different characters race each other over several rounds with the first one crossing the finish line wining;
+    Popolopoï: one must reach the finish line before the time that is counting down reaches zero. Time can be replenished by shooting some kind of butterflies called a Popolopoï and no opponents are to be beaten;
+    Lums: over three laps a certain amount Lums have to be collected and one must beat the other opponents to the finish line.
+
+The arena battle mode is split in three different battle types:
+
+    Lum Spring: before the time runs out or the first to collect five Lums/crystals wins. Ice bullets can be fired at an opponent to temporally freeze them and beat them to the lum;
+    Lum Fight: all players start with five hit points each that need to be shot of with weapons found around the arena. A point is scored if a player shoots of the last hit point of an other player. The first to reach a certain amount of points or the one with the most points at the moment the time runs out wins. When killed through one’s own actions a negative point is scored;
+    Capture the Fly: the goal is to find and capture a Light-Fly. The fly follows you around and if a certain amount of time has passed a point is awarded. One loses control of the fly when hit by a bullet of an opponent. The first to reach a certain amount of points or the one with the most points at the moment the time runs out wins.
+
+Playable character include:
+
+    Rayman: the series main protagonist a creature without arms, legs and neck but with hands, feet and a head that can move independently from his body;
+    Globox: some kind of frog and Rayman's best friend;
+    Teensies: a pair of strange dwarfs working together;
+    Tily: a cat like fairy;
+    Admiral Razorbeard: the final boss of Rayman 2;
+    Henchman 800: one of the Robo-Pirates from Rayman 2;
+    Henchman 1000: an other Robo-Pirate;
+    Razorwife: Admiral Razorbeard's wife.
+
+To unlock rewards such as bonus levels, additional leagues, character skins, and new characters finishing first in races and arena’s is required.

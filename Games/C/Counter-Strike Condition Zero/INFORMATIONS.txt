@@ -1,0 +1,5 @@
+Counter-Strike: Condition Zero is a reworked version of Counter-Strike with the addition of all-new multiplayer maps and high-detail player and weapon models.
+
+It includes the Tour of Duty mode, a series of Counter-Strike matches against computer-controlled opponents using the official CS bot to simulate multiplayer games offline with bots or take the bots online for added competition. There is a collection of Deleted Scenes, 18 story-driven missions that were developed by Ritual Entertainment but eventually left out with the final release of the game.
+
+The Linux and Macintosh version were never available separately. When they were released, Counter-Strike: Condition Zero could only be bought as a compilation pack containing both Counter-Strike: Condition Zero and the original Half-Life: Counter-Strike. However, existing players who only owned Counter-Strike: Condition Zero thus received it for the additional platforms for free, even if they did not own the original Half-Life: Counter-Strike or never bought the compilation pack.
